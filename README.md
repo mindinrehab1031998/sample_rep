@@ -1,2 +1,1 @@
-# sample_rep
-this is a storage for project sample files
+# week2-rd-fluid-measurements-and-media-queries-completed
